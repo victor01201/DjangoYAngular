@@ -1,0 +1,10 @@
+.bg-darker{background-color:#2b3445 !important}
+.bg-size-cover{background-size:cover !important}
+.dropdown-toggle{
+    color: red;
+}
+a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}

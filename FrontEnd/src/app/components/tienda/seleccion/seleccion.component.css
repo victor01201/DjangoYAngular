@@ -1,0 +1,10 @@
+.contenedor{
+    background: #be93c585;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #7bc7cc79, #be93c563);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #7bc7cc69, #be93c552); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+h2{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}

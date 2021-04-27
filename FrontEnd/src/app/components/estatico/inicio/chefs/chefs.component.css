@@ -1,0 +1,25 @@
+
+.team{
+	background: rgba(179, 57, 57,1.0);
+}
+.border-primary{
+	border-color: rgb(57, 79, 179) !important;
+}
+.btn-primary {
+    color: rgb(255, 255, 255);
+    background-color: rgba(179, 57, 57,1.0);
+    border-color: rgba(179, 57, 57,1.0);
+}
+.bg-primary {
+    background-color: rgba(179, 57, 57,1.0) !important;
+}
+.btn-link {
+    color: rgba(179, 57, 57,1.0) ;
+}
+.p1{
+	color: white;
+}
+.contacimg{
+	border-radius: 50px 50px 50px 50px;
+}
+
